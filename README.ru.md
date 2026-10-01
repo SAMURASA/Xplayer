@@ -30,7 +30,7 @@
 - bass-reactive glow;
 - Slowed / Nightcore / Reverb;
 - профили и Profile Studio;
-- Radio / HypeFM;
+- Radio;
 - отдельный **Potato Mode** для слабых ПК.
 
 XPlayer ориентирован на обычное ежедневное прослушивание, но при этом позволяет превратить плеер в визуальную и социальную часть рабочего стола.
@@ -70,7 +70,6 @@ Profile Studio, рамки, стили карточки, эффекты, цве�
 | 📻 Radio | HypeFM / Radio с отдельным UI и изолированными online-функциями |
 | 🌍 Интерфейс | Русский / English, onboarding, tooltips, масштаб Hub, настройки и UX-улучшения |
 
-[Полный список возможностей →](docs/FEATURES.ru.md)
 
 ---
 
@@ -198,7 +197,7 @@ Profile Studio объединяет кастомизацию и достижен
 
 ---
 
-## 📻 Radio / HypeFM
+## 📻 Radio
 
 Radio — отдельный сценарий воспроизведения, отделённый от обычных online-функций.
 
