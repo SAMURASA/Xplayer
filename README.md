@@ -30,7 +30,7 @@ It brings together:
 - bass-reactive glow;
 - Slowed / Nightcore / Reverb;
 - profiles and Profile Studio;
-- Radio / HypeFM;
+- Radio;
 - a dedicated **Potato Mode** for low-end systems.
 
 XPlayer is designed for everyday listening, while still giving you a social and visual desktop experience.
@@ -70,7 +70,6 @@ Profile Studio brings together card styles, frames, effects, colors and achievem
 | 📻 Radio | HypeFM / Radio with isolated UI and online controls |
 | 🌍 UI | Russian / English, onboarding, tooltips, Hub scaling and UX improvements |
 
-[Full feature list →](docs/FEATURES.md)
 
 ---
 
@@ -195,7 +194,7 @@ Locked cosmetic options remain unavailable until the required achievement is unl
 
 ---
 
-## 📻 Radio / HypeFM
+## 📻 Radio
 
 Radio is a separate playback scenario, isolated from the normal online features.
 
